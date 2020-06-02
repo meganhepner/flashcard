@@ -5,6 +5,6 @@ $(document).ready(function() {
   // });
 
   $("button#arguement").click(function() {
-    $(".terms").hide();
+    $("#arguement").hide();
   });
 });
