@@ -1,10 +1,5 @@
-$(document).ready(function() {
-  // $("button#javascript").click(function() {
-  //   $("#javascript").hide();
-  //   $("body").addClass("javascript-definition");
-  // });
-
-  $("button#arguement").click(function() {
-    $("#arguement").hide();
+$(document).ready(function(){
+  $(".terms").click(function(){
+    $(this).children().toggle();
   });
 });
