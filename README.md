@@ -2,15 +2,14 @@
 
 #### _JQuery Basics, 6.1.20_
 
-#### By _**Megan Hepner**_
+#### By _**Megan Hepner & Chris Yoon**_
 
 ## Description
-  This page lists terms specific to JavaScript. When the terms are clicked, the definitions toggle in to appear where the terms were.
+  This page lists terms specific to JavaScript. When the terms are clicked they toggle using JQuery to display the definition.
 
 
 ## Setup/Installation Requirements
 
-* use the terminal to clone this repository 
 * to clone this content, copy the url provided by the 'clone or download' button in GitHub
 * in terminal use the command 'git clone (GitHub url)'
 * open the content in a web browser
